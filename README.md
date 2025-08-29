@@ -1,5 +1,7 @@
 ## Hi friends!
-
+I'm a Ph.D. student at Tulane University studying restored oyster reefs 🦪
+I'm interested in coastal restoration and all things marine biology related🌊
+Fun fact: My favorite restuarant in New Orleans is Mona's Cafe, I go there almost every Sunday! 🧆🥙
 
 <!--
 **avistrange/avistrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
